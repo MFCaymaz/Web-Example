@@ -1,0 +1,282 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+header {
+  background-color: #AED581;
+  color: #fff;
+  padding: -20px 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-top: 0;
+  position: relative;
+  right: -20px;
+}
+
+h2 {
+ font-size: 20px;
+ color: #1565C0;
+ text-align: center;
+ position: relative;
+ right: -250px; 
+ top: -30px;
+}
+
+
+#projects {
+  border: 1px solid #1565C0;
+  text-decoration: underline;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #c2c98d;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #cfef61 12%, transparent 12.5%, transparent 87%, #cfef61 87.5%, #cfef61), linear-gradient(150deg, #cfef61 12%, transparent 12.5%, transparent 87%, #cfef61 87.5%, #cfef61), linear-gradient(30deg, #cfef61 12%, transparent 12.5%, transparent 87%, #cfef61 87.5%, #cfef61), linear-gradient(150deg, #cfef61 12%, transparent 12.5%, transparent 87%, #cfef61 87.5%, #cfef61), linear-gradient(60deg, #cfef6177 25%, transparent 25.5%, transparent 75%, #cfef6177 75%, #cfef6177), linear-gradient(60deg, #cfef6177 25%, transparent 25.5%, transparent 75%, #cfef6177 75%, #cfef6177);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+  
+}
+
+
+#publications {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+  
+}
+
+#books {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+}
+
+#profile {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+  
+}
+
+#tasks {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+}
+
+#educational_activities {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+}
+
+#theses {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+}
+#communication {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding-right: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+}
+
+#english {
+  border: 1px solid #1565C0;
+  border-radius: 10%;
+  width: 200px;
+  padding: 1px;
+  margin-right: 1px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #a3a3a1;
+  opacity: 0.8;
+  background-image:  linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(30deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(150deg, #c4c4c2 12%, transparent 12.5%, transparent 87%, #c4c4c2 87.5%, #c4c4c2), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277), linear-gradient(60deg, #c4c4c277 25%, transparent 25.5%, transparent 75%, #c4c4c277 75%, #c4c4c277);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+}
+
+section {
+    width: 490px;
+    padding: 25px;
+    position: relative;
+    top: -390px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+body {
+text-size:lem;
+
+}
+
+h4 {
+  border: 1px solid #1565C0;
+  padding: 5px;
+  border-radius: 3%;
+  width: 600px;
+  margin: 5px;
+  background-color: #e6f6b2;
+  opacity: 0.8;
+  background-image:  linear-gradient(135deg, #f1f0b2 25%, transparent 25%), linear-gradient(225deg, #f1f0b2 25%, transparent 25%), linear-gradient(45deg, #f1f0b2 25%, transparent 25%), linear-gradient(315deg, #f1f0b2 25%, #e6f6b2 25%);
+  background-position:  10px 0, 10px 0, 0 0, 0 0;
+  background-size: 20px 20px;
+  background-repeat: repeat;
+}
+
+h5 {
+  position: relative;
+}
+
+h5::before,
+h5::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -3px; 
+  height: 2px;
+  background-color: #000; 
+}
+
+h5::after {
+  bottom: 1px; 
+}
+
+
+h6 {
+  border: 1px solid #1565C0;
+  padding: 8px;
+  height: 70px;
+  width: 10px;
+  margin: 5px;
+  background-color: #d7e091;
+  opacity: 0.8;
+  background: radial-gradient(circle, transparent 20%, #d7e091 20%, #d7e091 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #d7e091 20%, #d7e091 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#d5e69c 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #d5e69c 2px, #d7e091 2px) -1px 0;
+  background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
+  
+}
+
+
+#page-wrapper { 
+ margin: 0 auto;
+  width: 800px;
+  height: 400px;
+  border: 1px solid black; 
+  box-sizing: border-box;  
+  border-radius: 3%;
+}
+
+#content { 
+ text-align: left; display: inline-block; 
+}
+
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #B2AFAF; 
+  padding: 10px;
+  text-align: center;
+}
+
+
+
